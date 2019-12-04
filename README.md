@@ -1,1 +1,1 @@
-#scrabble-pairing-system
+#game-pairing-system
